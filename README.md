@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Um Júnior em constante evolução apaixonado por tecnologia.
 - 💼 &nbsp; Trabalhando como **Desenvolvedor Full-Stack Freelancer** 
-- 🌱 &nbsp; Aprendendo mais sobre **TypeScript, React Native e Node.JS**. 
+- 🌱 &nbsp; Aprendendo **React Native**. 
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -15,9 +15,13 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+  ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Node.JS](https://img.shields.io/badge/-Node.JS-333333?style=flat&logo=node.js) 
+  ![Nest](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) 
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
 **Utilidades**
 
